@@ -1,0 +1,46 @@
+//! **************************************************************************
+// Written by: Map P.58f on Sun Oct 05 16:18:20 2014
+//! **************************************************************************
+
+SCHEMATIC START;
+COMP "HS" LOCATE = SITE "N6" LEVEL 1;
+COMP "VS" LOCATE = SITE "P7" LEVEL 1;
+COMP "anodes<0>" LOCATE = SITE "N16" LEVEL 1;
+COMP "anodes<1>" LOCATE = SITE "N15" LEVEL 1;
+COMP "anodes<2>" LOCATE = SITE "P18" LEVEL 1;
+COMP "anodes<3>" LOCATE = SITE "P17" LEVEL 1;
+COMP "blue<0>" LOCATE = SITE "R7" LEVEL 1;
+COMP "blue<1>" LOCATE = SITE "T7" LEVEL 1;
+COMP "switches<0>" LOCATE = SITE "T10" LEVEL 1;
+COMP "switches<1>" LOCATE = SITE "T9" LEVEL 1;
+COMP "switches<2>" LOCATE = SITE "V9" LEVEL 1;
+COMP "switches<3>" LOCATE = SITE "M8" LEVEL 1;
+COMP "switches<4>" LOCATE = SITE "N8" LEVEL 1;
+COMP "switches<5>" LOCATE = SITE "U8" LEVEL 1;
+COMP "switches<6>" LOCATE = SITE "V8" LEVEL 1;
+COMP "switches<7>" LOCATE = SITE "T5" LEVEL 1;
+COMP "clk_out" LOCATE = SITE "P11" LEVEL 1;
+COMP "reset" LOCATE = SITE "B8" LEVEL 1;
+COMP "segs<0>" LOCATE = SITE "T17" LEVEL 1;
+COMP "segs<1>" LOCATE = SITE "T18" LEVEL 1;
+COMP "segs<2>" LOCATE = SITE "U17" LEVEL 1;
+COMP "segs<3>" LOCATE = SITE "U18" LEVEL 1;
+COMP "segs<4>" LOCATE = SITE "M14" LEVEL 1;
+COMP "segs<5>" LOCATE = SITE "N14" LEVEL 1;
+COMP "segs<6>" LOCATE = SITE "L14" LEVEL 1;
+COMP "data_out_bit" LOCATE = SITE "N10" LEVEL 1;
+COMP "clk_lock" LOCATE = SITE "U16" LEVEL 1;
+COMP "red<0>" LOCATE = SITE "U7" LEVEL 1;
+COMP "red<1>" LOCATE = SITE "V7" LEVEL 1;
+COMP "red<2>" LOCATE = SITE "N7" LEVEL 1;
+COMP "fpga_clk" LOCATE = SITE "V10" LEVEL 1;
+COMP "green<0>" LOCATE = SITE "P8" LEVEL 1;
+COMP "green<1>" LOCATE = SITE "T6" LEVEL 1;
+COMP "green<2>" LOCATE = SITE "V6" LEVEL 1;
+COMP "sync_data" LOCATE = SITE "T12" LEVEL 1;
+COMP "buttons<0>" LOCATE = SITE "C4" LEVEL 1;
+COMP "buttons<1>" LOCATE = SITE "C9" LEVEL 1;
+COMP "buttons<2>" LOCATE = SITE "D9" LEVEL 1;
+COMP "buttons<3>" LOCATE = SITE "A8" LEVEL 1;
+SCHEMATIC END;
+
